@@ -1,6 +1,6 @@
 var rule = { 
     title: '城市电影',
-    host: 'https://www.citydy.com',
+    host: 'https://www.citydy1.com',
     // homeUrl:'/',
     // url: '/show/id-fyclass/page/fypage.html',
     url: '/show/id-fyclassfyfilter.html',
